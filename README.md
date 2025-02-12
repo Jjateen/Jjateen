@@ -80,7 +80,7 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jjateen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Jjateen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
        alt="GitHub Stats" 
        style="height: 300px; width: 47%; object-fit: cover;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jjateen&theme=tokyonight&hide_border=false" 
