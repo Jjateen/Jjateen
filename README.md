@@ -116,4 +116,3 @@
 </picture>
 
 ---
-<img src="https://visitcount.itsvg.in/api?id=Jjateen&icon=0&color=0" alt="Profile Views" />
