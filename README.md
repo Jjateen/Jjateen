@@ -78,33 +78,20 @@
 ![Virtuoso](https://img.shields.io/badge/Virtuoso-%23EE0000.svg?style=plastic&logo=cadence&logoColor=white)
 </div>
 
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jjateen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" 
-       alt="GitHub Stats" 
-       style="height: 300px; width: 47%; object-fit: cover;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jjateen&theme=tokyonight&hide_border=false" 
-       alt="GitHub Streak" 
-       style="height: 300px; width: 52%; object-fit: cover;" />
-</div>
-
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Jjateen&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=9" alt="GitHub Trophies" />
-
-### 🔝 Top Contributed Repo
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Jjateen&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
-       alt="Contributor Stats" 
-       style="height: 300px; width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jjateen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-       alt="Top Languages" 
-       style="height: 300px; width: 49%;" />
-</div>
-
-<!-- Contribution Graph -->
-<h2>📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jjateen&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy-api.vercel.app/?username=Jjateen&theme=tokyonight&no-frame=true&no-bg=true" />
+</p>
+
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Jjateen&count_private=true&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jjateen&theme=tokyonight" height="160px"/>
+</p>
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jjateen&theme=react-dark&hide_border=true" />
 </p>
 
 
