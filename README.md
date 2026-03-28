@@ -20,10 +20,10 @@
   </a>
 </p>
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jjateen)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jjateen)
 
-# 💻 Tech Stack:
+# Tech Stack:
 <div align="center">
   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
@@ -78,18 +78,18 @@
 ![Virtuoso](https://img.shields.io/badge/Virtuoso-%23EE0000.svg?style=plastic&logo=cadence&logoColor=white)
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy-api.vercel.app/?username=Jjateen&theme=tokyonight&no-frame=true&no-bg=true" />
 </p>
 
-# 📊 GitHub Stats
+# GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Jjateen&count_private=true&show_icons=true&theme=tokyonight" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jjateen&theme=tokyonight" height="160px"/>
 </p>
 
-## 📈 Contribution Graph
+## Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jjateen&theme=react-dark&hide_border=true" />
 </p>
